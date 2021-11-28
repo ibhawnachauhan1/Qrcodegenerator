@@ -1,0 +1,2 @@
+# Qrcodegenerator
+qrcodegenerator using python
